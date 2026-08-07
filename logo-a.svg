@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 232" fill="none" role="img" aria-label="Ace the Plate">
-  <circle cx="100" cy="26" r="20" fill="#E96A54"/>
-  <path d="M60 120 Q60 56 100 56 Q140 56 140 120" stroke="#E96A54" stroke-width="26" stroke-linecap="round"/>
-  <path d="M50 150 L150 150" stroke="#E96A54" stroke-width="30" stroke-linecap="round"/>
-  <path d="M90 156 L50 208" stroke="#E96A54" stroke-width="27" stroke-linecap="round"/>
-  <path d="M110 156 L150 208" stroke="#E96A54" stroke-width="27" stroke-linecap="round"/>
-</svg>
